@@ -1,0 +1,31 @@
+{
+  "name": "webpack-3-playground",
+  "version": "1.0.0",
+  "description": "trying webpack 3.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amostap/webpack-3-playground.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "amostap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amostap/webpack-3-playground/issues"
+  },
+  "homepage": "https://github.com/amostap/webpack-3-playground#readme",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.3.0"
+  }
+}
